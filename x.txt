@@ -1,1 +1,2 @@
 "hola " 
+que tal estoy enn el txt de x
